@@ -13,3 +13,5 @@ Thus, this 10 line extension simply adds a link on the abstract page of arxiv ar
 ## Update: Link is now gradient-ified
 Well... it looks good (and I mostly forget that I dont have to click on the PDF link every time)
 That is the latest release, if you feel it is distracting you can download [the first release](https://github.com/plutonium-239/x25/releases/tag/v1.0.0).
+
+![gradient-gif](out.gif)
