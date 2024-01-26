@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "x25 : arxiv html",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Inserts a link on all arxiv pages to it's ar5iv link (HTML papers)",
   "permissions": ["activeTab", "tabs"],
   "content_scripts": [
