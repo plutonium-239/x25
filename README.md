@@ -9,3 +9,7 @@ There exists another extension [arxiv--ar5iv](https://github.com/HannesGitH/arxi
 Thus, this 10 line extension simply adds a link on the abstract page of arxiv articles that leads to ar5iv.
 
 ![image-20240118140634828](https://i.ibb.co/NnzBWRq/image-20240118140634828.png)
+
+## Update: Link is now gradient-ified
+Well... it looks good (and I mostly forget that I dont have to click on the PDF link every time)
+That is the latest release, if you feel it is distracting you can download [the first release](https://github.com/plutonium-239/x25/releases/tag/v1.0.0).
