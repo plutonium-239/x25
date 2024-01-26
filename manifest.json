@@ -8,6 +8,7 @@
     {
       "matches": ["https://arxiv.org/abs/*"],
       "js": ["content_sc.js"],
+      "css": ["style_grad.css"],
       "run_at": "document_end"
     }
   ],
